@@ -8,6 +8,6 @@ environment:
 
 dependencies:
   angular: ">=5.0.0 <7.0.0"
-  angular_forms: ^2.0.0
+  angular_forms: ">=2.0.0 <4.0.0"
   js: ^0.6.0
   dart_browser_loader: ^0.0.6
